@@ -8,7 +8,6 @@ I'm currently a Computer Science student while working for WKG Software as a Ful
 
 * 🌍  I'm based in Hannover, Germany
 * ✉️  You can contact me at [arungopala0325@gmail.com](mailto:arungopala0325@gmail.com)
-* 🚀  I'm currently working on [Lusini](http://lusini.us)
 * 🧠  I'm learning Wordpress, Blazor and C#
 
 ### Skills
